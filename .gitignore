@@ -1,0 +1,5 @@
+vendor/
+.htaccess
+php.ini
+config/db_params.php
+config/pdo_db_params.php

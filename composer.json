@@ -1,0 +1,13 @@
+{
+    "name": "vendor/mvc",
+    "description": "Composer components",
+    "authors": [
+        {
+            "name": "Artem Dvornik",
+            "email": "jsdvtema@gmail.com"
+        }
+    ],
+    "require": {
+        "smottt/wideimage": "1.1.3"
+    }
+}
